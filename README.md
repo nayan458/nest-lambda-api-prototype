@@ -1,6 +1,6 @@
 <p align="center">
     <a href="./system_design/clamioSystemDesign.py" target="_blank">
-      <img src="./system_design/clamio_system_design.png" width="200" alt="System Design" />
+      <img src="./system_design/clamio_system_design.png" alt="System Design" />
     </a>
     </a>
 </p>
