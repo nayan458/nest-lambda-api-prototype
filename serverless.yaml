@@ -1,3 +1,5 @@
+org: clamio
+app: clamio-backend
 service: clamio-api-v1
 
 plugins:
